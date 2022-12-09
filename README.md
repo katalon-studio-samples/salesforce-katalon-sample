@@ -2,7 +2,7 @@
 
 # Introduction:
 
-This project demonstrates how katalon studio helps users to automate the Salesforce applications
+This project demonstrates how katalon studio helps users to automate the Salesforce applications. it conatins some of the test cases for Lead, Case & Account Management. The Dashboard Management test cases contain an example for the iframe.
 
 # Requirements
 
