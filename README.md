@@ -20,9 +20,13 @@ This project demonstrates how katalon studio helps users to automate the Salesfo
 # How to automate
 
 Add Capability to handle Popup(Show Notification). 
+
 Record test script via katalon recorder.
+
 Save test objects and test cases.
+
 Run the test on the browser.
+
 Verify the test result.
 
 
