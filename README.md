@@ -12,22 +12,22 @@ This project demonstrates how katalon studio helps users to automate the Salesfo
 
 # Use case
 
-1. Lead Management in Salesforce.
-2. Case Management in Salesforce.
-3. Account Management in Salesforce.
-4. Dashboard Management in Salesforce.
+* Lead Management in Salesforce.
+* Case Management in Salesforce.
+* Account Management in Salesforce.
+* Dashboard Management in Salesforce.
 
 # How to automate
 
-Add Capability to handle Popup(Show Notification). 
+* Add Capability to handle Popup(Show Notification). 
 
-Record test script via katalon recorder.
+* Record test script via katalon recorder.
 
-Save test objects and test cases.
+* Save test objects and test cases.
 
-Run the test on the browser.
+* Run the test on the browser.
 
-Verify the test result.
+* Verify the test result.
 
 
 **Repository for the Sample Project:**
