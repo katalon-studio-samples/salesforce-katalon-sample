@@ -1,19 +1,23 @@
 # salesforce-katalon-sample
 
-**Introduction:**
+# Introduction:
 
-In this article we are focusing on how katalon studio helps users to automate the Salesforce applications.
+This project demonstrates how katalon studio helps users to automate the Salesforce applications
 
-**Let’s begin-**
+# Requirements
 
-**Use case: ** 
+* Katalon Studio
+* Salesforce Account
+
+
+# Use case
 
 1. Lead Management in Salesforce.
 2. Case Management in Salesforce.
 3. Account Management in Salesforce.
 4. Dashboard Management in Salesforce.
 
-**How to automate:**
+# How to automate
 
 Add Capability to handle Popup(Show Notification). 
 Record test script via katalon recorder.
