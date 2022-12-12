@@ -18,7 +18,9 @@ This project demonstrates how katalon studio helps users to automate the Salesfo
 
 # How to automate
 
-* Add Capability to handle Popup(Show Notification). 
+* Enter Salesforce Username and Password inside the Default Profile.
+
+* Add Capability to handle Popup(Show Notification)(Already Added)
 
 * Record test script via katalon recorder.
 
